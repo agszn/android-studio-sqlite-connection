@@ -1,0 +1,1 @@
+# android-studio-sqlite-connection
